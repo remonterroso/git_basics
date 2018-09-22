@@ -1,2 +1,2 @@
 # git_basics
-AWS Course
+AWS Course en URL
